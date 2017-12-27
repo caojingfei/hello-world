@@ -1,0 +1,1 @@
+REPLACE INTO `tmp_20171011` SELECT distinct(uid), username FROM `pre_user_visited_log_201707` WHERE `uid` != 0 AND `url` LIKE '/bootcamp-%'
