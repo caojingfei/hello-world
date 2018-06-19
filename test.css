@@ -1,0 +1,9 @@
+ul {
+  width: 100%;
+}
+ul li {
+  height: 40px;
+}
+ul li span {
+  color: red;
+}
